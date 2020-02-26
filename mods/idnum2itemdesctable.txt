@@ -1,0 +1,2733 @@
+503#
+A potion made from ground Yellow Herbs that restores ^000088about 175 HP^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (15)^000000
+Weight :^777777 13^000000
+#
+605#
+A medicine made from ground Mint that is used to ease pain and relax muscle tension. It's a popular painkiller because of its potency.
+^ffffff_^000000
+^008800Quest Ingredient for: Eversong Greaves (100)^000000
+Weight :^777777 10^000000
+#
+609#
+A forbidden talisman that can reanimate the dead, resulting in a walking corpse or undead zombie.
+^ffffff_^000000
+^008800Quest Ingredient for: Blade of Angels (80)^000000
+Weight :^777777 10^000000
+#
+707#
+A mysterious plant that sings melancholic songs under a full moon. Legend says it's a woman grieving over the loss of her lover that has been reborn.
+^ffffff_^000000
+^008800Quest Ingredient for: Electric Guitar (100)^000000
+Weight :^777777 1^000000
+#
+984#
+Pure Oridecon metal. Widely known as the Blessed Metal, it can increase the damage of weapons once welded to them.
+Used to temper ^000088Level 3 and 4 weapons^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Twin Fang (25)^000000
+Weight :^777777 20^000000
+#
+985#
+A very light, non-toxic metal used for refining and toughening ^000088Armor^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Twin Fang (100), Sleipnir[0] (100)^000000
+Weight :^777777 20^000000
+#
+714#
+Merely owning this gloriously resplendent gem is said to be a sign of being chosen by fate to wield great power.
+^ffffff_^000000
+^008800Quest Ingredient for: Aegis Shield (12)^000000
+Weight :^777777 100^000000
+#
+717#
+An enchanted crystal that is used in conjunction with certain magic spells. Once used, it is powerless and immediately destroyed.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (10)^000000
+Weight :^777777 3^000000
+#
+731#
+A medium size, sparkling transparent gem that can be sold at a high price.
+^ffffff_^000000
+^008800Quest Ingredient for: Hira Shurikat (20)^000000
+Weight :^777777 10^000000
+#
+904#
+A tail severed from a scorpion.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (980), Suiken (1000)^000000
+Weight :^777777 1^000000
+#
+914#
+A clump of monster fur and fuzz that can be used to make thread and fabric.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (990)^000000
+Weight :^777777 1^000000
+#
+915#
+Skin from a larva that has been shed or peeled off.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (980), Sherwood Bow (980)^000000
+Weight :^777777 1^000000
+#
+916#
+A bird's feather that can be used in decor or in fabric creation.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (5)^000000
+^880088Upgrade Ingredient for: Tome of Ymir (980), Twin Fang (1000)^000000
+Weight :^777777 1^000000
+#
+918#
+A webbed foot cut from a monster's hind leg.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (990)^000000
+Weight :^777777 1^000000
+#
+920#
+A claw severed from a wolf's paw.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (1000), Nibelungen (1000), Suiken (1000)^000000
+Weight :^777777 1^000000
+#
+922#
+A cuspid wrenched out of from a gruesome Orc's jaw.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (780), Mjolnir (780), Suiken (790)^000000
+Weight :^777777 1^000000
+#
+923#
+Baphomet's horn is a symbol representing evil.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (780)^000000
+Weight :^777777 1^000000
+#
+924#
+Butterfly wing powder that sparkles with the power of fantasy.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (900)^000000
+Weight :^777777 1^000000
+#
+926#
+Scales from a snake that can be used to make some rather flamboyant clothes.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (900)^000000
+Weight :^777777 1^000000
+#
+930#
+Old, dirty bandage that's so soiled, it's almost worthless.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Tome of Ymir (1680)^000000
+Weight :^777777 1^000000
+#
+932#
+A bone taken from an Undead skeleton.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (1000)^000000
+Weight :^777777 1^000000
+#
+935#
+A hard shell that used to protect a monster.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (990), Eversong Greaves (990), Ghostdancer Staff (980)^000000
+Weight :^777777 1^000000
+#
+936#
+A shell-like piece of tough monster skin that is covered with hard scales.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (800)^000000
+Weight :^777777 1^000000
+#
+938#
+Mysteriously sticky liquid.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Tome of Ymir (1000)^000000
+Weight :^777777 1^000000
+#
+939#
+A stinger from a hornet or bee.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (890), Eversong Greaves (890), Tome of Ymir (890)^000000
+Weight :^777777 1^000000
+#
+940#
+A Rocker's hind leg.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (900)^000000
+Weight :^777777 1^000000
+#
+941#
+A ring placed in a cow's nose so that it can be steered more easily.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (780)^000000
+Weight :^777777 1^000000
+#
+942#
+A prehensile tail from a Yoyo.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (800)^000000
+Weight :^777777 1^000000
+#
+944#
+A "U" shaped piece of iron fitted on a horse's hoof for its protection.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (730), Staff of Magi (740)^000000
+Weight :^777777 1^000000
+#
+947#
+Hard and sharp horn from a monster's head.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (990)^000000
+Weight :^777777 1^000000
+#
+948#
+A lazy bear's foot that supposedly has an unique flavor and the power to restore male vigor.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Twin Fang (1000)^000000
+Weight :^777777 1^000000
+#
+949#
+A feather that boasts full, lustrous barbs used for making clothes of the highest quality.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (890), Twin Fang (800)^000000
+Weight :^777777 1^000000
+#
+951#
+A fish monster's fin.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (730), Belmont Whip (740)^000000
+Weight :^777777 1^000000
+#
+953#
+A heart constructed entirely out of stone.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (800)^000000
+Weight :^777777 1^000000
+#
+955#
+Shed skin from worms and insects.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Ghostdancer Staff (980), Sherwood Bow (955)^000000
+Weight :^777777 1^000000
+#
+956#
+Part of a fish's breathing apparatus.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (780)^000000
+Weight :^777777 1^000000
+#
+958#
+A complete set of corpse's teeth. Well, as complete as it can get.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (790), Mjolnir (780)^000000
+Weight :^777777 1^000000
+#
+961#
+The shell of a marine mollusk.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (780), Nibelungen (790), Twin Fang (800)^000000
+Weight :^777777 1^000000
+#
+962#
+A flexible, prehensile and boneless appendage.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (800)^000000
+Weight :^777777 1^000000
+#
+968#
+An emblem given to an Orc Warrior that is proof of his heroism.
+^ffffff_^000000
+^008800Quest Ingredient for: Eversong Greaves (20)^000000
+Weight :^777777 1^000000
+#
+970#
+This colorless liquid is the secret behind the addictiveness of beers and wine. 200 Proof.
+^ffffff_^000000
+^008800Quest Ingredient for: Suiken (200)^000000
+Weight :^777777 3^000000
+#
+989#
+An anvil, made of pure Emperium, that's used to manufacture products of the highest quality.
+^ffffff_^000000
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Weight :^777777 100^000000
+#
+990#
+A vivid red ore that glows from inside with an orange yellow light. Possesses the ^FF0000Fire^000000 Property and can form the enchanted stone, Flame Heart, when refined.
+^ffffff_^000000
+^008800Quest Ingredient for: Staff of Magi (140)^000000
+Weight :^777777 5^000000
+#
+991#
+A sky colored ore that glows with the light of the deep ocean depths. Possesses the ^0000FFWater^000000 Property and forms the enchanted stone, Mystic Frozen, when refined.
+^ffffff_^000000
+^008800Quest Ingredient for: Evangelist (100)^000000
+Weight :^777777 5^000000
+#
+992#
+A lemon colored ore that contains a pale, greenish light. Possesses the ^009900Wind^000000 Property and forms the enchanted stone, Rough Wind, when refined.
+^ffffff_^000000
+^008800Quest Ingredient for: Electric Guitar (100)^000000
+Weight :^777777 5^000000
+#
+994#
+A dark red, heart shaped stone enchanted with the ^FF0000Fire^000000 Property.
+^ffffff_^000000
+^008800Quest Ingredient for: Belmont Whip (100)^000000
+Weight :^777777 30^000000
+#
+995#
+A light blue, crystal stone enchanted with the ^0000FFWater^000000 Property.
+^ffffff_^000000
+^008800Quest Ingredient for: Suiken (125)^000000
+Weight :^777777 3^000000
+#
+996#
+A pale green, lightning bolt shaped stone imbued with the ^009900Wind^000000 Property.
+^ffffff_^000000
+^008800Quest Ingredient for: Hira Shurikat (200), Mjolnir (150)^000000
+Weight :^777777 15^000000
+#
+997#
+A citrus colored, bud shaped stone enchanted with the ^996600Earth^000000 Property.
+^ffffff_^000000
+^008800Quest Ingredient for: Djinn (180)^000000
+Weight :^777777 30^000000
+#
+999#
+An iron and carbon alloy known for its structural durability and usually used in the crafting of high-quality arms.
+^ffffff_^000000
+^008800Quest Ingredient for: Sleipnir[0] (100)^000000
+Weight :^777777 10^000000
+#
+1006#
+A spell book containing powerful, ancient magic.
+^ffffff_^000000
+^008800Quest Ingredient for: Tome of Ymir (20), Lord Kaho's Horn (10)^000000
+Weight :^777777 3^000000
+#
+1007#
+A mysterious necklace that is rumored to possess the power of clairvoyance.
+^ffffff_^000000
+^008800Quest Ingredient for: Staff of Magi (2)^000000
+Weight :^777777 4^000000
+#
+1009#
+A figure of a hand that contains great religious symbolism.
+^ffffff_^000000
+^008800Quest Ingredient for: Evangelist (10)^000000
+Weight :^777777 2^000000
+#
+1018#
+A mole's claw that is sturdy enough to dig into the ground.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (780)^000000
+Weight :^777777 1^000000
+#
+1019#
+A woody stem from a tree that's useful for lumber.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (780)^000000
+Weight :^777777 1^000000
+#
+1020#
+Lustrous, well brushed hair cut from some virgin.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (780), Electric Guitar (800)^000000
+Weight :^777777 1^000000
+#
+1021#
+Horns from a Dokebi which are rumored to bring great fortune to their owner.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (790)^000000
+Weight :^777777 1^000000
+#
+1022#
+A set of tails that used to belong to a Nine Tail fox. But not anymore, apparently.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (780), Ghostdancer Staff (800)^000000
+Weight :^777777 1^000000
+#
+1023#
+A tail severed from a fish monster.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (730)^000000
+Weight :^777777 1^000000
+#
+1024#
+Bottled black fluid from Marse the squid that seems to have failed its purpose of providing self defense.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (5)^000000
+^880088Upgrade Ingredient for: Sherwood Bow (740)^000000
+Weight :^777777 1^000000
+#
+1028#
+Bristly, tough hair cut from a wild boar.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (800)^000000
+Weight :^777777 1^000000
+#
+1033#
+Roots, which resemble human legs, that almost look capable of walking.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (980), Ghostdancer Staff (1000)^000000
+Weight :^777777 1^000000
+#
+1034#
+Hair cut from a Kobold that appears bristly but is actually downy soft.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (1000)^000000
+Weight :^777777 1^000000
+#
+1035#
+A dragon's cuspid that is sharp enough to pierce through dragon scales.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (800), Staff of Magi (790)^000000
+Weight :^777777 1^000000
+#
+1036#
+An iridescent dragon's scale that is tough enough to protect from weather and most forms of harm.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (800), Djinn (800), Ghostdancer Staff (790)^000000
+Weight :^777777 1^000000
+#
+1037#
+A tail cut off from a dragon that, sadly, will never grow back.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (790), Tome of Ymir (800)^000000
+Weight :^777777 1^000000
+#
+1038#
+Horns sliced off the head of a little demon.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (790), Electric Guitar (780)^000000
+Weight :^777777 1^000000
+#
+1040#
+A moustache shaved off an old dwarf that has somehow maintained its entire shape and form.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (780)^000000
+Weight :^777777 1^000000
+#
+1042#
+A hind leg that has been cut from a bug.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Tome of Ymir (790)^000000
+Weight :^777777 1^000000
+#
+1044#
+A cuspid pulled out of a cursed Orc's mouth.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (800)^000000
+Weight :^777777 1^000000
+#
+1045#
+A ceremonial mask used by an ancient shaman.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (800), Djinn (780)^000000
+Weight :^777777 1^000000
+#
+1048#
+Some of Medusa's hair, which is essentially just a bunch of snakes.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Staff of Magi (780)^000000
+Weight :^777777 1^000000
+#
+1053#
+A sharp, serrated tooth pulled from the mouth of a giant deep sea fish.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (580), Staff of Magi (590), Twin Fang (490)^000000
+Weight :^777777 1^000000
+#
+1054#
+A set of fat lips cut from a giant deep sea fish.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (490), Djinn (490)^000000
+Weight :^777777 1^000000
+#
+1056#
+A cubic grain of sand that brightly sparkles.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (790), Suiken (780)^000000
+Weight :^777777 1^000000
+#
+1057#
+Bottled powder from the wings of a moth.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (790), Ghostdancer Staff (790), Nibelungen (790)^000000
+Weight :^777777 1^000000
+#
+1063#
+A sharp cuspid yanked from some monster's mouth.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (730)^000000
+Weight :^777777 1^000000
+#
+1067#
+A tree trunk of wood that is nice and solid.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (580)^000000
+Weight :^777777 1^000000
+#
+1068#
+A tree trunk of wood that is pretty low quality.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Ghostdancer Staff (740)^000000
+Weight :^777777 1^000000
+#
+1139#
+An one-handed sword said to bring a horrific fate to whoever wields it.
+Drains 35 HP from its owner every 10 seconds.
+^008800Quest Ingredient for: Nibelungen (1)^000000
+Class :^777777 Sword^000000
+Attack :^777777 200^000000
+Weight :^777777 100^000000
+Property :^777777 Shadow^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 40^000000
+Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
+#
+1237#
+A cursed dagger forged out of monster tooth that is known to cause insanity to whoever may wield it.
+Decreases all defenses applied to its owner by half.
+Flee Rate + 10
+Perfect Dodge + 5
+^008800Quest Ingredient for: Twin Fang (1)^000000
+Class :^777777 Dagger^000000
+Attack :^777777 180^000000
+Weight :^777777 80^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 36^000000
+Applicable Job :^777777 Swordman Class, Mage Class, Archer Class, Merchant Class, Thief Class, Soul Linker, Ninja^000000
+#
+1304#
+An axe crafted by Orcish smiths for Orcish warriors.
+^008800Quest Ingredient for: Djinn (1)^000000
+Class :^777777 Axe^000000
+Attack :^777777 75^000000
+Weight :^777777 150^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 3^000000
+Applicable Job :^777777 Novice, Swordman Class, Merchant Class, Thief Class^000000
+#
+1413#
+A legendary spear that is known for its ability to never miss its target.
+Has a 25% chance of performing a guided attack that a target can't evade.
+HIT + 30
+^008800Quest Ingredient for: Nibelungen (1)^000000
+Class :^777777 Spear^000000
+Attack :^777777 120^000000
+Weight :^777777 50^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 4^000000
+Applicable Job :^777777 Swordman Class^000000
+#
+1411#
+A spear that is commonly used by mounted knights.
+^008800Quest Ingredient for: Nibelungen (1)^000000
+Class :^777777 Spear^000000
+Attack :^777777 185^000000
+Weight :^777777 250^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 33^000000
+Applicable Job :^777777 Swordman Class^000000
+#
+1524#
+A mace forged out of pure gold.
+Increases damage inflicted on Undead monster by 10%.
+Indestructible (except in upgrade attempts).
+^008800Quest Ingredient for: Mjolnir (1)^000000
+Class :^777777 Mace^000000
+Attack :^777777 110^000000
+Weight :^777777 80^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 40^000000
+Applicable Job :^777777 Acolyte Class^000000
+#
+1552#
+A marble tablet on which the wise words of the ancients have been engraved and immortalized.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Book^000000
+Attack :^777777 125^000000
+Weight :^777777 80^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+1613#
+A rare staff that can convert psychic energy into brute strength.
+Consumes 2 SP with each Physical attack.
+STR + 10, MATK + 15%
+^008800Quest Ingredient for: Staff of Magi (1)^000000
+Class :^777777 Rod^000000
+Attack :^777777 130^000000
+Weight :^777777 70^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 24^000000
+Applicable Job :^777777 Mage Class, Acolyte Class, Soul Linker^000000
+#
+1614#
+A shamanic wand topped with a goat's skull that enhances magic attack power.
+INT + 3, MATK + 15%
+^008800Quest Ingredient for: Ghostdancer Staff (1)^000000
+Class :^777777 Rod^000000
+Attack :^777777 75^000000
+Weight :^777777 70^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 24^000000
+Applicable Job :^777777 Mage Class, Acolyte Class, Soul Linker^000000
+#
+1615#
+Since evil spirits possess this wand of human bone, its suffocatingly accursed aura can be sensed by those who wield it.
+INT + 4, MATK + 15%
+^008800Quest Ingredient for: Ghostdancer Staff (1)^000000
+Class :^777777 Rod^000000
+Attack :^777777 40^000000
+Weight :^777777 70^000000
+Property :^777777 Undead^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 24^000000
+Applicable Job :^777777 Mage Class, Acolyte Class, Soul Linker^000000
+#
+1802#
+A common, yet effective claw that's also known as the "Tiger Fang".
+^008800Quest Ingredient for: Suiken (1)^000000
+Class :^777777 Claw^000000
+Attack :^777777 30^000000
+Weight :^777777 40^000000
+Weapon Level :^777777 1^000000
+Applicable Job :^777777 Priest, Monk^000000
+#
+1814#
+A claw imbued with the essence of madness.
+Increases Attack Speed.
+^008800Quest Ingredient for: Suiken (1)^000000
+Class :^777777 Claw^000000
+Attack :^777777 120^000000
+Weight :^777777 50^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 36^000000
+Applicable Job :^777777 Priest, Monk^000000
+#
+1902#
+The classical stringed instrument favored by Rocker, the grasshopper monster who'd rather play music than do actual work.
+^008800Quest Ingredient for: Electric Guitar (1)^000000
+Class :^777777 Musical Instrument^000000
+Attack :^777777 50^000000
+Weight :^777777 70^000000
+Weapon Level :^777777 1^000000
+Required Level :^777777 2^000000
+Applicable Job :^777777 Bard^000000
+#
+1906#
+A classical plucked string instrument that is incredibly difficult to tune and adjust.
+^008800Quest Ingredient for: Electric Guitar (1)^000000
+Class :^777777 Musical Instrument^000000
+Attack :^777777 105^000000
+Weight :^777777 50^000000
+Weapon Level :^777777 2^000000
+Required Level :^777777 14^000000
+Applicable Job :^777777 Bard^000000
+#
+1908#
+A six stringed musical instrument that is played by plucking the strings with fingers or a pick.
+^008800Quest Ingredient for: Electric Guitar (1)^000000
+Class :^777777 Musical Instrument^000000
+Attack :^777777 142^000000
+Weight :^777777 90^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Bard^000000
+#
+1912#
+A traditional chordophone, favored by the aristocracy in days past, which plays deep, subtle notes.
+^008800Quest Ingredient for: Electric Guitar (1)^000000
+Class :^777777 Musical Instrument^000000
+Attack :^777777 126^000000
+Weight :^777777 130^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Bard^000000
+#
+1964#
+A powerful whip made of steel chain for heavy duty battles.
+Critical Rate + 5%
+Flee Rate + 10
+Perfect Dodge + 2
+^008800Quest Ingredient for: Belmont Whip (1)^000000
+Class :^777777 Whip^000000
+Attack :^777777 135^000000
+Weight :^777777 70^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 44^000000
+Applicable Job :^777777 Dancer^000000
+#
+1719#
+A bow, created just for Thieves, that has great attacking range.
+Weapon Range + 6
+^008800Quest Ingredient for: Sherwood Bow (1)^000000
+Class :^777777 Bow^000000
+Attack :^777777 75^000000
+Weight :^777777 50^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 48^000000
+Applicable Job :^777777 Thief^000000
+#
+1720#
+A bow imbued with the sacred essence of Rudra, one of the ancient gods.
+Add a 50% resistance to the ^880000Poison^000000, ^880000Curse^000000, ^880000Silence^000000, ^880000Confusion^000000 and ^880000Blind^000000 statuses.
+Enables the use of ^008800Level 1 Heal^000000 and ^008800Level 1 Cure^000000.
+INT + 5
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Class :^777777 Bow^000000
+Attack :^777777 150^000000
+Weight :^777777 120^000000
+Property :^777777 Holy^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 48^000000
+Applicable Job :^777777 Archer Class, Rogue^000000
+#
+2108#
+A shield with a surface constructed of mirror that might reflect harmful magic.
+MDEF + 5
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Class :^777777 Shield^000000
+Defense :^777777 4^000000
+Weight :^777777 100^000000
+Applicable Job :^777777 Swordman Class, Star Gladiator^000000
+#
+2404#
+A pair of shoes made of supple, high quality leather.
+^008800Quest Ingredient for: Eversong Greaves (1)^000000
+Class :^777777 Footgear^000000
+Defense :^777777 2^000000
+Weight :^777777 40^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2406#
+A pair of heavy leather boots, padded with Lunatic fur, that is suited to warriors.
+^008800Quest Ingredient for: Eversong Greaves (1), Sleipnir[0] (1)^000000
+Class :^777777 Footgear^000000
+Defense :^777777 4^000000
+Weight :^777777 60^000000
+Applicable Job :^777777 Swordman Class, Archer Class, Merchant Class, Thief Class, TaeKwon, Star Gladiator, Gunslinger^000000
+#
+2254#
+A headband adorned with what appears to be the wings of an angel.
+It contains holiness that blesses the wearer's soul and offers protection from dark forces.
+Reduces damage from Demon monster by 3%.
+AGI + 1, LUK + 1, MDEF + 3
+^008800Quest Ingredient for: Megingjard (1), Valkyrie Helm (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 2^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2258#
+A headband with two dangerously fashionable spikes.
+^008800Quest Ingredient for: Valkyrie Helm (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 6^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 100^000000
+Required Level :^777777 50^000000
+Applicable Job :^777777 Swordman Class, Acolyte Class, Merchant Class, Thief Class, TaeKwon, Star Gladiator^000000
+#
+5001#
+A strange device that was invented by an old craftsman, but has just recently been completed by his grandson.
+Increases resistance to ^880000Curse^000000 status by 10%.
+^008800Quest Ingredient for: Scouter (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 3^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 20^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+5017#
+An incredibly heavy, yet almost impenetrable helmet constructed of bone.
+Increases damage received from ^777777Shadow^000000 Property attacks by 15%.
+^008800Quest Ingredient for: Valkyrie Helm (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 7^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 80^000000
+Required Level :^777777 70^000000
+Applicable Job :^777777 Swordman Class, Merchant Class^000000
+#
+2288#
+A mask that expresses anguish and despair born from insanity.
+^008800Quest Ingredient for: Lord Kaho's Horn (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 1^000000
+Equipped on :^777777 Mid, Lower^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2601#
+A metal band worn on the finger which strangely increases its wearer's strength.
+STR + 2
+^008800Quest Ingredient for: Megingjard (10)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 20^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2614#
+Reduces damage from undead monsters by 4%. Gain immunity to poison status.
+^008800Quest Ingredient for: Belmont Whip (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 50^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2615#
+A strange ring that curiously raises its wearer's defense.
+MDEF + 3
+^008800Quest Ingredient for: Aegis Shield (1), Artemis Bow (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 3^000000
+Weight :^777777 10^000000
+Required Level :^777777 40^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2619#
+A finger accessory for archers which helps improve their accuracy.
+Increases damage inflicted with Bow class weapons.
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 65^000000
+Applicable Job :^777777 Archer Class^000000
+#
+2327#
+A robe that emanates an aura of holiness.
+Increases resistance to Demon monster by 15%.
+And resistance against ^777777Shadow^000000 Property by 10%.
+MDEF + 5
+^008800Quest Ingredient for: Evangelist (1)^000000
+Class :^777777 Armor^000000
+Defense :^777777 7^000000
+Weight :^777777 170^000000
+Required Level :^777777 60^000000
+Applicable Job :^777777 Acolyte Class^000000
+#
+4008#
+STR + 1
+ATK + 10
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4019#
+STR + 1
+ATK + 3
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4024#
+Inflict ^880000Sleep^000000 status when you attack (Success Chance 5%).
+ATK + 5
+^008800Quest Ingredient for: Evangelist (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4028#
+STR + 2
+[^000088Cramp Card Combo^000000]
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Accessory^000000
+Weight :^777777 1^000000
+#
+4032#
+DEF + 2
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4035#
+Increase damage on DemiHuman monster by 20%.
+^008800Quest Ingredient for: Twin Fang (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4043#
+ATK + 20
+^008800Quest Ingredient for: Eversong Greaves (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4057#
+^880000Silence^000000 an enemy when you attack (Success Chance 5%).
+ATK + 5
+^008800Quest Ingredient for: Mjolnir (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4058#
+Reduce damage from DemiHuman monster by 30%.
+^008800Quest Ingredient for: Hira Shurikat (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4063#
+Increase damage on Insect monster by 20%.
+^008800Quest Ingredient for: Suiken (3)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4065#
+Increase damage on ^996600Earth^000000 Property enemies by 20%.
+^008800Quest Ingredient for: Lord Kaho's Horn (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4066#
+Reduce damage from Brute monster by 30%.
+^008800Quest Ingredient for: Aegis Shield (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4067#
+Increase resistance to the ^880000Freeze^000000 status by 20%.
+DEF + 1
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4072#
+Make a weapon indestructible (except in upgrade attempts).
+ATK + 5
+^008800Quest Ingredient for: Mjolnir (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4075#
+Increase resistance to ^880000Stone Curse^000000 status by 20%.
+DEF + 1
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4079#
+STR + 3
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Accessory^000000
+Weight :^777777 1^000000
+#
+4084#
+Enables use of ^008800Level 3 Magnum Break^000000.
+^008800Quest Ingredient for: Suiken (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Accessory^000000
+Weight :^777777 1^000000
+#
+4091#
+Critical Rate + 4%
+STR + 1
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Accessory^000000
+Weight :^777777 1^000000
+#
+4097#
+Maximum HP + 10%
+AGI + 1
+^008800Quest Ingredient for: Sleipnir[0] (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Footgear^000000
+Weight :^777777 1^000000
+#
+4100#
+Maximum SP + 15%
+SP Recovery + 3%
+^008800Quest Ingredient for: Sleipnir[0] (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Footgear^000000
+Weight :^777777 1^000000
+#
+4101#
+Enchant Armors with the ^996600Earth^000000 Property.
+DEF + 1
+^008800Quest Ingredient for: Djinn (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4102#
+Flee Rate + 20
+Increase damage from ^777777Ghost^000000 Property attacks by 50%.
+^008800Quest Ingredient for: Sherwood Bow (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Garment^000000
+Weight :^777777 1^000000
+#
+4107#
+Maximum HP and SP + 8%
+^008800Quest Ingredient for: Sleipnir[0] (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Footgear^000000
+Weight :^777777 1^000000
+#
+4114#
+Enchant an Armor with the ^880000Poison^000000 Property.
+DEF + 1
+^008800Quest Ingredient for: Nibelungen (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4122#
+Gain immunity to the ^880000Blind^000000 status.
+STR + 1
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4124#
+Gain immunity to the ^880000Stone Curse^000000 status.
+Reduce damage from Demon monster by 15%.
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+1096#
+A round shell that looks like it has been rolled up.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (790)^000000
+Weight :^777777 1^000000
+#
+1097#
+A worn, tattered page torn from an old book.
+^ffffff_^000000
+^008800Quest Ingredient for: Tome of Ymir (75)^000000
+Weight :^777777 1^000000
+#
+1098#
+Wrist restraints that are usually used on prisoners.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Ghostdancer Staff (1040), Suiken (1050)^000000
+Weight :^777777 1^000000
+#
+1099#
+An old, used prison uniform.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (1180)^000000
+Weight :^777777 1^000000
+#
+7001#
+A handful of soft, powdery mould that is strangely silken to the touch.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (790)^000000
+Weight :^777777 1^000000
+#
+7002#
+A tooth extracted from the mouth of a proud Orc Warrior.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (1080)^000000
+Weight :^777777 1^000000
+#
+7004#
+A gooey, unpleasant lump of wet, dirty mud.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (780), Staff of Magi (780)^000000
+Weight :^777777 1^000000
+#
+7005#
+A skull taken from a corpse.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (790), Djinn (780), Staff of Magi (780)^000000
+Weight :^777777 1^000000
+#
+7007#
+A toe nail from a huge, disease ridden rodent.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (690), Djinn (690), Staff of Magi (700)^000000
+Weight :^777777 1^000000
+#
+7009#
+A shell that sparkles with dazzling light.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (600), Staff of Magi (500), Twin Fang (580)^000000
+Weight :^777777 1^000000
+#
+7011#
+A monkey's claw that was used to peel many bananas.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (230)^000000
+Weight :^777777 1^000000
+#
+7012#
+A stem with a tough surface that feels like it's covered with thick, protective scales.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (730)^000000
+Weight :^777777 1^000000
+#
+7013#
+A small chunk of a reef formed by corals in clear, tropical waters.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (790)^000000
+Weight :^777777 1^000000
+#
+7017#
+A glove worn when performing executions that has absorbed all sorts of memories that are related to death and obligation.
+^ffffff_^000000
+^008800Quest Ingredient for: Suiken (1)^000000
+Weight :^777777 3^000000
+#
+7018#
+A fresh, young twig that evokes feelings of purity and innocence.
+^ffffff_^000000
+^008800Quest Ingredient for: Sherwood Bow (2)^000000
+Weight :^777777 1^000000
+#
+7019#
+A strange object in which the seductive whispers of Loki can be faintly heard.
+^ffffff_^000000
+^008800Quest Ingredient for: Nibelungen (2)^000000
+Weight :^777777 1^000000
+#
+7020#
+A mother's nightmares that have been given physical form.
+^ffffff_^000000
+^008800Quest Ingredient for: Djinn (1)^000000
+Weight :^777777 1^000000
+#
+7023#
+A blade imbued with a suffocating aura that repels the light.
+^ffffff_^000000
+^008800Quest Ingredient for: Twin Fang (20)^000000
+Weight :^777777 4^000000
+#
+7027#
+The key that can unlock the underground door in the Clock Tower.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (1)^000000
+^880088Upgrade Ingredient for: Evangelist (305), Sherwood Bow (315)^000000
+Weight :^777777 1^000000
+#
+618#
+A rolled up piece of parchment, now brittle with age, on which faded text can scarcely be read.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (480)^000000
+Weight :^777777 2^000000
+#
+1553#
+A hefty book with a hard cover that has been enchanted with the ^0000FFWater^000000 Property.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Book^000000
+Attack :^777777 90^000000
+Weight :^777777 75^000000
+Property :^0000FF Water^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+1554#
+A hefty book with a hard cover that has been enchanted with the ^996600Earth^000000 Property.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Book^000000
+Attack :^777777 90^000000
+Weight :^777777 75^000000
+Property :^996600 Earth^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+1555#
+A hefty book with a hard cover that has been enchanted with the ^FF0000Fire^000000 Property.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Book^000000
+Attack :^777777 90^000000
+Weight :^777777 75^000000
+Property :^FF0000 Fire^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+1556#
+A hefty book with a hard cover that has been enchanted with the ^009900Wind^000000 Property.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Book^000000
+Attack :^777777 90^000000
+Weight :^777777 75^000000
+Property :^009900 Wind^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 27^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+1557#
+A book that details prophesies concerning the end of the world.
+Increases damage on ^996600Earth^000000, ^0000FFWater^000000, ^FF0000Fire^000000 and ^009900Wind^000000 Property enemies by 7% and ^777777Holy^000000 Property enemies by 5%.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Book^000000
+Attack :^777777 120^000000
+Weight :^777777 80^000000
+Property :^777777 Shadow^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 40^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+2621#
+An ancient ring.
+STR + 1
+^008800Quest Ingredient for: Brisingamen (4), Megingjard(10)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2622#
+An ancient earring.
+INT + 1
+^008800Quest Ingredient for: Brisingamen (4)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2623#
+An ancient necklace.
+VIT + 1
+^008800Quest Ingredient for: Brisingamen (4)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2624#
+An ancient mitten.
+DEX + 1
+^008800Quest Ingredient for: Brisingamen (4)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2625#
+An ancient brooch.
+AGI + 1
+^008800Quest Ingredient for: Brisingamen (4)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2626#
+An ancient rosary.
+LUK + 1, MDEF + 3
+[^000088Rosary & Spiritual Ring Equip Set^000000]
+^008800Quest Ingredient for: Aegis Shield (1), Brisingamen (4)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2627#
+A simple, very practical belt that has little fashion value.
+^008800Quest Ingredient for: Megingjard (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 120^000000
+Required Level :^777777 25^000000
+Applicable Job :^777777 Every Job^000000
+#
+1261#
+A lethal katar that has been perfectly designed to carry out quick assassinations.
+Increases damage inflicted on DemiHuman monster by 50%.
+DEF + 3
+Flee Rate + 5
+Perfect Dodge + 2
+^008800Quest Ingredient for: Twin Fang (1)^000000
+Class :^777777 Katar^000000
+Attack :^777777 140^000000
+Weight :^777777 150^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 75^000000
+Applicable Job :^777777 Assassin^000000
+#
+7031#
+An old frying pan that has outlived its usefulness.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (790), Djinn (780)^000000
+Weight :^777777 1^000000
+#
+9021#
+An egg in which an Isis Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
+^0000FFLoyal Bonus^000000
+When summoned,
+ATK + 1%, MATK - 1%.
+^008800Quest Ingredient for: Electric Guitar (1)^000000
+Class :^777777 Monster Egg^000000
+Weight :^777777 0^000000
+#
+9022#
+An egg in which a Green Petite Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
+^0000FFLoyal Bonus^000000
+When summoned,
+ASPD + 1%, DEF/MDEF -2.
+^008800Quest Ingredient for: Djinn (1)^000000
+Class :^777777 Monster Egg^000000
+Weight :^777777 0^000000
+#
+10006#
+A hair accessory, said to be worn by an ancient queen, that is fitting for vain, yet glamorous, Cute Pets.
+^008800Quest Ingredient for: Valkyrie Helm (1)^000000
+Class :^777777 Cute Pet Armor^000000
+Weight :^777777 0^000000
+Applicable Pet :^777777 Isis^000000
+#
+7036#
+A sharp fang dislodged from Garm's mouth.
+^ffffff_^000000
+^008800Quest Ingredient for: Evangelist (50)^000000
+Weight :^777777 1^000000
+#
+7038#
+A wound up ball of fluffy knitting yarn.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (580)^000000
+Weight :^777777 1^000000
+#
+7047#
+An apron worn by the Alice monster.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (315)^000000
+Weight :^777777 1^000000
+#
+7048#
+A Griffon's sharp talon.
+^ffffff_^000000
+^008800Quest Ingredient for: Nibelungen (20)^000000
+Weight :^777777 1^000000
+#
+1766#
+An arrow that is said to have the might to counter evil.
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Class :^777777 Arrow^000000
+Attack :^777777 50^000000
+Weight :^777777 0.3^000000
+Property :^777777 Holy^000000
+#
+1306#
+A bloodthirsty axe that has aided many warriors in battle.
+DEX + 2, LUK + 2
+^008800Quest Ingredient for: Djinn (1)^000000
+Class :^777777 Axe^000000
+Attack :^777777 140^000000
+Weight :^777777 420^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 76^000000
+Applicable Job :^777777 Blacksmith, Alchemist^000000
+#
+1472#
+A high quality, two-handed staff that amplifies psychic power.
+INT + 5, AGI + 2, MATK + 15%
+[^000088Soul Staff & Spiritual Ring Equip Set^000000]
+^008800Quest Ingredient for: Staff of Magi (1)^000000
+Class :^777777 Two-handed Staff^000000
+Attack :^777777 25^000000
+Weight :^777777 140^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 73^000000
+Applicable Job :^777777 Mage Class, Soul Linker^000000
+#
+1473#
+Rumored to have been crafted by an ancient wizard, this staff contains awesome energies.
+INT + 6, DEX + 2, MATK + 15%
+[^000088Wizardry Staff & Spiritual Ring Equip Set^000000]
+^008800Quest Ingredient for: Staff of Magi (1)^000000
+Class :^777777 Two-handed Staff^000000
+Attack :^777777 120^000000
+Weight :^777777 240^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 90^000000
+Applicable Job :^777777 Mage Class, Soul Linker^000000
+#
+1529#
+A heavy, round headed mace intended for use in athletic competitions, but has proven to be effective in battle.
+Weapon Range + 1
+^008800Quest Ingredient for: Mjolnir (1)^000000
+Class :^777777 Mace^000000
+Attack :^777777 155^000000
+Weight :^777777 300^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 78^000000
+Applicable Job :^777777 Priest, Monk^000000
+#
+2109#
+A magic book filled with long, impractical spells that is so large, it can actually be used just like a shield.
+INT + 1, MDEF + 2
+[^000088Pocket Watch & Monocle[0] & Memory Book Equip Set^000000]
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Shield^000000
+Defense :^777777 3^000000
+Weight :^777777 100^000000
+Applicable Job :^777777 Mage Class, Soul Linker^000000
+#
+5025#
+A wondrous helmet adorned with angel wings that was made by a smithing genius.
+AGI + 1, LUK + 1, MDEF + 3
+^008800Quest Ingredient for: Valkyrie Helm (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 160^000000
+Required Level :^777777 74^000000
+Applicable Job :^777777 2nd Class or above^000000
+#
+7063#
+A feather that is soft enough to be used as stuffing in a quilt.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (550)^000000
+Weight :^777777 1^000000
+#
+7064#
+A dragonfly wing.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Staff of Magi (630)^000000
+Weight :^777777 1^000000
+#
+7065#
+Sea-Otter fur that is soft and downy enough to be used in cloth making.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (640), Suiken (750)^000000
+Weight :^777777 1^000000
+#
+7069#
+Pieces of armor that have been damaged beyond repair.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (780), Mjolnir (700), Suiken (790)^000000
+Weight :^777777 1^000000
+#
+2111#
+A symbolic shield, rumored to have been given from God to his messenger.
+INT + 2, VIT + 3, MDEF + 3
+Indestructible (except in upgrade attempts).
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Class :^777777 Shield^000000
+Defense :^777777 5^000000
+Weight :^777777 160^000000
+Required Level :^777777 83^000000
+Applicable Job :^777777 Crusader^000000
+#
+2412#
+Steel boots which offer dependable foot protection.
+^008800Quest Ingredient for: Eversong Greaves (1), Sleipnir[1] (1)^000000
+Class :^777777 Footgear^000000
+Defense :^777777 5^000000
+Weight :^777777 75^000000
+Required Level :^777777 65^000000
+Applicable Job :^777777 Knight, Crusader^000000
+#
+1722#
+A giant bow which was used in ancient battles.
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Class :^777777 Bow^000000
+Attack :^777777 145^000000
+Weight :^777777 350^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 77^000000
+Applicable Job :^777777 Hunter, Bard, Dancer^000000
+#
+7093#
+A cogwheel used in a machine.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (600)^000000
+Weight :^777777 1^000000
+#
+7094#
+A strange object with metal pieces attached to it. It could be a piece of a very large machine.
+^ffffff_^000000
+^008800Quest Ingredient for: Scouter (250)^000000
+Weight :^777777 1^000000
+#
+7095#
+An unidentified metal fragment.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (730)^000000
+Weight :^777777 1^000000
+#
+7097#
+A stone heart that is aflame with magic.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (750)^000000
+Weight :^777777 1^000000
+#
+7098#
+A live coal.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (640)^000000
+Weight :^777777 1^000000
+#
+7100#
+A sharp leaf.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Twin Fang (790)^000000
+Weight :^777777 1^000000
+#
+7106#
+An impressive horn from an antelope.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (680)^000000
+Weight :^777777 1^000000
+#
+7107#
+Some dirty fur from an antelope.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (700), Staff of Magi (680)^000000
+Weight :^777777 1^000000
+#
+7108#
+A piece of shield that looks strong and durable.
+^ffffff_^000000
+^008800Quest Ingredient for: Aegis Shield (30)^000000
+Weight :^777777 1^000000
+#
+7110#
+A damaged sword that no longer looks usable.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (790), Eversong Greaves (780), Ghostdancer Staff (780)^000000
+Weight :^777777 1^000000
+#
+7111#
+Smooth, sleek paper that looks suitable for writing love letters.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (25)^000000
+Weight :^777777 1^000000
+#
+7112#
+Incredibly sharp, and stout paper that looks as though it could be used like a knife.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (400)^000000
+Weight :^777777 1^000000
+#
+7116#
+A Talon from a Harpy.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (680)^000000
+Weight :^777777 1^000000
+#
+7117#
+An old magic book that is seriously damaged.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (400), Djinn (380), Twin Fang (390)^000000
+Weight :^777777 1^000000
+#
+7118#
+A piece of a scroll.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (275)^000000
+Weight :^777777 1^000000
+#
+7120#
+A burning horseshoe. Should probably only be shod on a burning horse.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (690)^000000
+Weight :^777777 1^000000
+#
+7121#
+An empty pot that carried honey once upon a time, but contains sweet goodness no longer.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (790)^000000
+Weight :^777777 1^000000
+#
+7122#
+Tussled red hair that looks like it's on fire.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (730), Nibelungen (740), Staff of Magi (730)^000000
+Weight :^777777 1^000000
+#
+7123#
+A piece of skin from a dragon.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Staff of Magi (680)^000000
+Weight :^777777 1^000000
+#
+7125#
+A claw from a scorpion.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (400)^000000
+Weight :^777777 1^000000
+#
+7149#
+A polished plate made out of yellow clay.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (750), Mjolnir (750)^000000
+Weight :^777777 1^000000
+#
+7150#
+A piece of bamboo from a bamboo tree.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (780)^000000
+Weight :^777777 1^000000
+#
+7151#
+A piece of yellowish paper with a waxy surface that repels water.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (790)^000000
+Weight :^777777 1^000000
+#
+7155#
+A piece of skin from the back of a poisonous toad.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (550), Ghostdancer Staff (550), Sherwood Bow (540), Tome of Ymir (540)^000000
+Weight :^777777 1^000000
+#
+7156#
+A broken shuriken that is no longer useful. Usually, it is a lethal weapon used by ninjas.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (700)^000000
+Weight :^777777 1^000000
+#
+7158#
+A piece of a broken liquor jar on which the tempting scent of alcohol still lingers.
+^ffffff_^000000
+^008800Quest Ingredient for: Suiken (20)^000000
+^880088Upgrade Ingredient for: Blade of Angels (650)^000000
+Weight :^777777 1^000000
+#
+7159#
+A nose part of the mask that the Tengu monster wears.
+The nose attached on this reddish mask is quite long and ugly.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (640)^000000
+Weight :^777777 1^000000
+#
+7162#
+A bottle which contains cloud crumbs.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (700), Twin Fang (680)^000000
+Weight :^777777 1^000000
+#
+7167#
+Unidentified piece of steel which is possibly used as a hinge for something.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (690), Twin Fang (680)^000000
+Weight :^777777 1^000000
+#
+7171#
+Peeled off leopard skin.
+There is a rumor of a man who ruled the jungle, wearing this skin as a loincloth.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (490), Mjolnir (480)^000000
+Weight :^777777 1^000000
+#
+7172#
+A sharp claw extracted from a leopard.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (480), Twin Fang (480)^000000
+Weight :^777777 1^000000
+#
+7186#
+A thin trunk which is used by people to climb up to higher places.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Ghostdancer Staff (800)^000000
+Weight :^777777 1^000000
+#
+7187#
+A mask that is worn during festivals.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (640)^000000
+Weight :^777777 1^000000
+#
+7188#
+A tree root that still has soil clinging to it.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Staff of Magi (780)^000000
+Weight :^777777 1^000000
+#
+7189#
+An artificial heart made out of wood which is used to give life to a Wooden Golem.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Twin Fang (800)^000000
+Weight :^777777 1^000000
+#
+7190#
+An insect husk that seems very hard and stout.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (800), Twin Fang (790)^000000
+Weight :^777777 1^000000
+#
+7192#
+A vane with sharp blades suspected to be used for assassinations.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Ghostdancer Staff (700), Twin Fang (690)^000000
+Weight :^777777 1^000000
+#
+7193#
+A sprout grown out of a vegetable seed.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (800), Belmont Whip (780), Eversong Greaves (780)^000000
+Weight :^777777 1^000000
+#
+7194#
+A very soft blade of grass.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (580)^000000
+Weight :^777777 1^000000
+#
+7195#
+A tool consisting of a Y-shaped wooden stick with an elastic band between the arms. Used to attack distant objects.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (530), Suiken (540)^000000
+Weight :^777777 1^000000
+#
+7196#
+A primitive protector made out of wood that is worn on the shoulders.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (590), Evangelist (580), Tome of Ymir (580)^000000
+Weight :^777777 1^000000
+#
+7197#
+A tough vine which can be used as rope.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (800)^000000
+Weight :^777777 1^000000
+#
+7200#
+An amazing length of flexible material which returns to its original form after being stretched.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (590), Nibelungen (600)^000000
+Weight :^777777 1^000000
+#
+7202#
+A pincher from a beetle.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (700)^000000
+Weight :^777777 1^000000
+#
+7203#
+A tree branch which can be used in various ways as a simple tool.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (780), Evangelist (780), Nibelungen (790)^000000
+Weight :^777777 1^000000
+#
+7207#
+An old, exhausted manteau.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (480), Eversong Greaves (500), Twin Fang (500)^000000
+Weight :^777777 1^000000
+#
+7208#
+A dull edged, rusty kitchen knife stained with blood.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (430), Ghostdancer Staff (450)^000000
+Weight :^777777 1^000000
+#
+7209#
+A helm that is said to be worn by Dullahan.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (2000), Nibelungen (1980), Sherwood Bow (1990)^000000
+Weight :^777777 1^000000
+#
+7210#
+A broken piece of an armor said to be worn by Dullahan.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (2000)^000000
+Weight :^777777 1^000000
+#
+7212#
+A doll hung on a rope that appears to hold some sort of cursed spell.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (700)^000000
+Weight :^777777 1^000000
+#
+7213#
+A packet, made with fabric, that is used to hold needles in place.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Ghostdancer Staff (790), Staff of Magi (790)^000000
+Weight :^777777 1^000000
+#
+7214#
+A cage which is used to hold a bat.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (780), Evangelist (800), Nibelungen (800)^000000
+Weight :^777777 1^000000
+#
+7215#
+Pieces of a broken needle.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (900), Blade of Angels (900)^000000
+Weight :^777777 1^000000
+#
+7216#
+A red-colored fabric worn around the neck to protect its wearer from the cold.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Mjolnir (1480)^000000
+Weight :^777777 1^000000
+#
+7217#
+A sewing tool on which thread is wound.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (800), Tome of Ymir (780)^000000
+Weight :^777777 1^000000
+#
+7219#
+A sock decorated with various colored stripes.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (780), Mjolnir (800)^000000
+Weight :^777777 1^000000
+#
+7220#
+Green translucent liquid that is disgustingly sticky.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (1190), Mjolnir (1190)^000000
+Weight :^777777 1^000000
+#
+7222#
+A gnarl of a tree.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (800), Djinn (790)^000000
+Weight :^777777 1^000000
+#
+7223#
+A self-portrait of someone contorting his facial expression.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (300), Artemis Bow (300)^000000
+Weight :^777777 1^000000
+#
+7225#
+A funny lantern made with a pumpkin, carved with a smiley face, containing a lit candle.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (990)^000000
+Weight :^777777 1^000000
+#
+678#
+A skeleton shaped bottle which contains deadly poison.
+^ffffff_^000000
+^008800Quest Ingredient for: Suiken (20)^000000
+Weight :^777777 10^000000
+#
+7263#
+A gem which looks like the eye of a cat. It's very rare and beautiful.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (580), Eversong Greaves (500), Mjolnir (500)^000000
+Weight :^777777 1^000000
+#
+7264#
+Dry sand which can be easily found on the street.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (790)^000000
+Weight :^777777 1^000000
+#
+7266#
+A tooth cut from a dragon mask. It seems to be made from a different material than the rest of the mask, which is wooden.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (500), Electric Guitar (500), Eversong Greaves (490), Ghostdancer Staff (480)^000000
+Weight :^777777 1^000000
+#
+7269#
+A soft cloth which is worn around the neck of an infant to protect the chest from spilled milk and baby drool.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (590)^000000
+Weight :^777777 1^000000
+#
+7270#
+Milk that is bottled for infants.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (490)^000000
+Weight :^777777 1^000000
+#
+5081#
+A crown which is made after the one worn by Mistress.
+INT + 2, Maximum SP + 100
+Indestructible (except in upgrade attempts).
+^008800Quest Ingredient for: Valkyrie Helm (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 0^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 75^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+5093#
+A tight-fitting cap worn under a veil, usually worn by nuns.
+Maximum SP + 100
+^008800Quest Ingredient for: Evangelist (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped on :^777777 Upper, Mid^000000
+Weight :^777777 30^000000
+Required Level :^777777 65^000000
+Applicable Job :^777777 Priest, Assassin^000000
+#
+5096#
+A mask of dark color that is used by the Assassin to cover his face.
+It feels that the concious of the heart is eliminated when it is worn.
+^008800Quest Ingredient for: Twin Fang (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 0^000000
+Equipped on :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 70^000000
+Applicable Job :^777777 Priest, Assassin^000000
+#
+7286#
+A kind of spice in a vivid red color.
+Add a spicy taste in food.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (390)^000000
+Weight :^777777 1^000000
+#
+7298#
+Two giant leaves that can be used as emergency clothes in a pinch.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (980), Sherwood Bow (980)^000000
+Weight :^777777 1^000000
+#
+7299#
+A basket made with straws.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (700), Ghostdancer Staff (690), Staff of Magi (680)^000000
+Weight :^777777 1^000000
+#
+7300#
+An ore containing gems. There are many minerals mixed within the ore, but it would be possible to extract various gems from it.
+^ffffff_^000000
+^008800Quest Ingredient for: Suiken (50)^000000
+Weight :^777777 1^000000
+#
+7301#
+A bunch of short and red threads which seems to be used for decorating the hilt of a sword.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (800), Sherwood Bow (800)^000000
+Weight :^777777 1^000000
+#
+7289#
+A gemstone which is also called 'Olivine'.
+Symbolizes peace of mind and wisdom.
+^ffffff_^000000
+^008800Quest Ingredient for: Sherwood Bow (60)^000000
+Weight :^777777 10^000000
+#
+687#
+A spell scroll which was made by the essence of ancient magic.
+Cast ^008800Level 5 Earth Spike^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Staff of Magi (5)^000000
+Weight :^777777 1^000000
+#
+689#
+A spell scroll which was made by the essence of ancient magic.
+Cast ^008800Level 5 Cold Bolt^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Staff of Magi (5)^000000
+Weight :^777777 1^000000
+#
+691#
+A spell scroll which was made by the essence of ancient magic.
+Cast ^008800Level 5 Fire Bolt^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Staff of Magi (5)^000000
+Weight :^777777 1^000000
+#
+693#
+A spell scroll which was made by the essence of ancient magic.
+Cast ^008800Level 5 Lightning Bolt^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Staff of Magi (5)^000000
+Weight :^777777 1^000000
+#
+695#
+A spell scroll which was made by the essence of ancient magic.
+Cast ^008800Level 5 Soul Strike^000000.
+^ffffff_^000000
+^008800Quest Ingredient for: Ghostdancer Staff (20)^000000
+Weight :^777777 1^000000
+#
+4246#
+Inflict 10% more damage with Critical attacks.
+Critical Rate + 7 on DemiHuman monster.
+[^000088+ Solider & Permeter & Freezer & Heater^000000]
+• Add a 0.3% chance of auto casting ^008800Level 3 Weapon Perfection^000000 on the enemy when attacking.
+• HP Recovery + 50%
+• Maximum HP + 20%
+• STR + 10
+• Add a 30% chance of gaining 'Red Potion' item each time a monster is killed.
+[^008800Swordman Class^000000]
+• Red, Yellow and White Potions restore 50% more HP.
+^008800Quest Ingredient for: Belmont Whip (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4264#
+Add a 2% chance of auto casting ^008800Level 3 Jupitel Thunder^000000 on the enemy when attacking.
+If the user has mastered the skill at Level 10, it will cast ^008800Level 10 Jupitel Thunder^000000.
+^008800Quest Ingredient for: Electric Guitar (1), Ghostdancer Staff (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Accessory^000000
+Weight :^777777 1^000000
+#
+4303#
+Flee Rate + 10
+[^008800Base Strength >= 80^000000]
+ATK + 20
+[^008800Base Vitality >= 80^000000]
+Maximum HP + 3%
+[^008800Base Lucky >= 80^000000]
+Critical Rate + 3
+^008800Quest Ingredient for: Ghostdancer Staff (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Garment^000000
+Weight :^777777 1^000000
+#
+4315#
+Add a 3% chance of auto casting '^880000Stone Curse^000000' on an enemy when the user receives Physical Damage.
+[^008800Base Intelligence >= 77^000000]
+Add a chance of auto casting '^880000Stone Curse^000000' is increased to 9%.
+^008800Quest Ingredient for: Belmont Whip (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4322#
+DEF + 1
+Reflect 5% of all Physical Melee Damage back to the enemy which inflicted it.
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+12020#
+A bottle of cursed water.
+^ffffff_^000000
+^008800Quest Ingredient for: Twin Fang (100)^000000
+Weight :^777777 3^000000
+#
+7312#
+A crystallization, dropped from monsters, whose name means joyous celebration.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (800)^000000
+Weight :^777777 1^000000
+#
+7315#
+A sharp, shiny fragment broken off a dark crystal.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (630), Electric Guitar (640)^000000
+Weight :^777777 1^000000
+#
+7317#
+A rusty screw that has come off a machine. It might be usable if it were polished enough.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (800), Staff of Magi (790), Tome of Ymir (800)^000000
+Weight :^777777 1^000000
+#
+7318#
+A tool used to break rocks or the ground.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Tome of Ymir (780)^000000
+Weight :^777777 1^000000
+#
+7319#
+A battered iron plate that seems to have fallen off some machine.
+It might be handy for covering a hole in another machine.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Nibelungen (780)^000000
+Weight :^777777 1^000000
+#
+7321#
+A small piece of a pretty crystal that looks like it has a symbol of an eye in its center.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Staff of Magi (690)^000000
+Weight :^777777 1^000000
+#
+7322#
+Poisonous gas that can be very harmful, if not lethal, when inhaled.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Blade of Angels (500)^000000
+Weight :^777777 1^000000
+#
+7323#
+This kettle isn't in the best condition, but it can still be used.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Artemis Bow (390)^000000
+Weight :^777777 1^000000
+#
+7325#
+A long, thin, pipe-like tube made to transport liquids or gases.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (800), Tome of Ymir (790)^000000
+Weight :^777777 1^000000
+#
+1244#
+A dagger blessed with holy water that can be very effective in combat against evil forces.
+DEX + 1
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Dagger^000000
+Attack :^777777 100^000000
+Weight :^777777 80^000000
+Property :^777777 Holy^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 55^000000
+Applicable Job :^777777 Thief Class, Ninja^000000
+#
+1620#
+A staff created as an united effort of the Mage Guild and the Prontera Church, that is intended to support their trainees for undergoing hardship.
+There are two types of this staff.
+INT + 3, MATK + 15%, Maximum HP + 400
+[^000088Survivor Manteau & slotted Survivor's Rod Equip Set^000000]
+^008800Quest Ingredient for: Ghostdancer Staff (1)^000000
+Class :^777777 Rod^000000
+Attack :^777777 50^000000
+Weight :^777777 100^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 24^000000
+Applicable Job :^777777 Mage Class, Acolyte Class, Soul Linker^000000
+#
+2116#
+Super Novice Guardian Angel's shield which contains holy power that can nullify evil.
+Reduce 5% damage from Demon monster.
+[^000088Angelic Protection, Angel's Reincarnation, Angelic Guard, Angelic Cardigan & Angel's Kiss Equip Set^000000]
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Shield^000000
+Defense :^777777 3^000000
+Weight :^777777 40^000000
+Required Level :^777777 20^000000
+Applicable Job :^777777 Novice Types^000000
+#
+2355#
+Super Novice Guardian Angel's robe.
+MDEF + 20
+[^000088+ Angelic Protection, Angel's Reincarnation, Angelic Guard, Angelic Cardigan & Angel's Kiss^000000]
+Maximum HP + 900, Maximum SP + 100
+Add a 3% chance of auto casting ^008800Level 1 Assumptio^000000 on the user when the user receives Physical Damage.
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Armor^000000
+Defense :^777777 4^000000
+Weight :^777777 60^000000
+Required Level :^777777 40^000000
+Applicable Job :^777777 Novice Types^000000
+#
+2420#
+Heavenly sandals worn by the Guardian Angel of Super Novices.
+Maximum HP + 100
+[^000088Angelic Protection, Angel's Reincarnation, Angelic Guard, Angelic Cardigan & Angel's Kiss Equip Set^000000]
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Footgear^000000
+Defense :^777777 2^000000
+Weight :^777777 30^000000
+Required Level :^777777 25^000000
+Applicable Job :^777777 Novice Types^000000
+#
+2521#
+Super Novice Guardian Angel's warm and comfortable cardigan.
+HP Recovery + 5%
+[^000088Angelic Protection, Angel's Reincarnation, Angelic Guard, Angelic Cardigan & Angel's Kiss Equip Set^000000]
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Garment^000000
+Defense :^777777 2^000000
+Weight :^777777 40^000000
+Required Level :^777777 20^000000
+Applicable Job :^777777 Novice^000000
+#
+2650#
+The belt that Morrigane kept as a memento of CuChulain after he perished in battle.
+ATK + 5, Critical Rate + 3
+[^000088Morrigane's Helm, Morrigane's Manteau, Morrigane's Belt & Morrigane's Pendant Equip Set^000000]
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 0^000000
+Weight :^777777 20^000000
+Required Level :^777777 61^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+2656#
+A mysterious, ancient artifact that can endow a normal armor with great defensive power, although it does make the wearer feel very sluggish.
+Maximum HP + 50
+[^000088+ Padded Armor^000000]
+DEF + 5
+Maximum HP + 150
+^008800Quest Ingredient for: Lord Kaho's Horn (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 1^000000
+Weight :^777777 100^000000
+Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
+#
+5124#
+A circlet blessed by Frigg, mother of Baldur.
+MDEF + 10, INT + 2, Maximum SP + 50
+[^000088Odin's Blessing, Valkyrja's Shield & Frigg's Circlet Equip Set^000000]
+^008800Quest Ingredient for: Lord Kaho's Horn (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 3^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 30^000000
+Required Level :^777777 65^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
+5125#
+A hair ornament that was kissed by the Super Novice's Guardian Angel.
+SP Recovery + 5%
+[^000088Angelic Protection, Angel's Reincarnation, Angelic Guard, Angelic Cardigan & Angel's Kiss Equip Set^000000]
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Class :^777777 Headgear^000000
+Defense :^777777 3^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 30^000000
+Required Level :^777777 50^000000
+Applicable Job :^777777 Novice^000000
+#
+7340#
+A dark oval stone with seven red eyes that's believed to act as a sort of nucleus for some monsters.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (30)^000000
+^880088Upgrade Ingredient for: Blade of Angels (580)^000000
+Weight :^777777 1^000000
+#
+7347#
+A chart, written in a language you can't recognize, that details the history of research.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Suiken (490)^000000
+Weight :^777777 1^000000
+#
+2659#
+An object which seems to be part of the Vesper.
+Possesses a mysterious power that enables its owner to clear his mind.
+MDEF + 3, INT + 2, Maximum SP + 5%
+^008800Quest Ingredient for: Scouter (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 1^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Rebirth 2nd Class or above^000000
+#
+2660#
+An object which seems to be part of the Vesper.
+Possesses a mysterious power that grants great strength to its owner.
+MDEF + 3, STR + 3, ATK + 10
+^008800Quest Ingredient for: Scouter (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 1^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Rebirth 2nd Class or above^000000
+#
+2661#
+An object which seems to be part of the Vesper.
+Possesses a mysterious power that grants agility to the one who wears it.
+MDEF + 3, AGI + 3, Flee Rate + 5
+^008800Quest Ingredient for: Scouter (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 1^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Rebirth 2nd Class or above^000000
+#
+2662#
+An object which seems to be part of the Vesper.
+Possesses a mysterious power that endows the owner with greater accuracy and dexterity.
+MDEF + 3, DEX + 3, HIT + 10
+^008800Quest Ingredient for: Scouter (1)^000000
+Class :^777777 Accessory^000000
+Defense :^777777 1^000000
+Weight :^777777 10^000000
+Applicable Job :^777777 Rebirth 2nd Class or above^000000
+#
+7440#
+A large, yet light, white feather that has a red gleam.
+^ffffff_^000000
+^008800Quest Ingredient for: Eversong Greaves (30)^000000
+Weight :^777777 1^000000
+#
+7441#
+A large, yet light, white feather that has a blue gleam.
+^ffffff_^000000
+^008800Quest Ingredient for: Sherwood Bow (40)^000000
+Weight :^777777 1^000000
+#
+7445#
+A beautiful green bijou that symbolizes the earth. In the East, people believe that this bijou can help wishes come true.
+^ffffff_^000000
+^008800Quest Ingredient for: Artemis Bow (50)^000000
+Weight :^777777 1^000000
+#
+7446#
+A beautiful blue bijou that symbolizes the ocean. In the East, people believe that this bijou can help wishes come true.
+^ffffff_^000000
+^008800Quest Ingredient for: Artemis Bow (50)^000000
+Weight :^777777 1^000000
+#
+7447#
+A beautiful red bijou that symbolizes the firey blaze. In the East, people believe that this bijou can help wishes come true.
+^ffffff_^000000
+^008800Quest Ingredient for: Artemis Bow (50)^000000
+Weight :^777777 1^000000
+#
+7448#
+A beautiful yellow bijou that totally captivates the eye and mind. In the East, people believe that this bijou can help wishes come true.
+^ffffff_^000000
+^008800Quest Ingredient for: Artemis Bow (50)^000000
+Weight :^777777 1^000000
+#
+7507#
+A square piece of rusty iron.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Eversong Greaves (700)^000000
+Weight :^777777 1^000000
+#
+2421#
+A pair of shoes worn by the Valkyries, Odin's battle maidens.
+These shoes grow more powerful as the wearer improves his own abilities.
+Indestructible (except in upgrade attempts).
+[^008800Mage, Archer, Acolyte Class^000000]
+Maximum HP + 5 * Base Level
+[^008800Swordman, Merchant, Thief Class^000000]
+Maximum SP + 2 * Job Level
+[^000088Minor/Old Minor Valkyrie Helm & Valkyrja's Armor & Valkyrja's Manteau & Valkyrja's Shoes Equip Set^000000]
+^008800Quest Ingredient for: Eversong Greaves (1)^000000
+Class :^777777 Footgear^000000
+Defense :^777777 4^000000
+Weight :^777777 50^000000
+Applicable Job :^777777 Every Rebirth Job except High Novice^000000
+#
+7510#
+An enigmantic flower that can only be seen within Valhalla, the sacred battlegrounds of the ancient gods.
+^ffffff_^000000
+^008800Quest Ingredient for: Belmont Whip (3)^000000
+Weight :^777777 1^000000
+#
+13300#
+A famous Huuma Ninja weapon that is shaped like a wing.
+AGI - 1, DEX - 2
+^008800Quest Ingredient for: Hira Shurikat (1)^000000
+Class :^777777 Huuma^000000
+Attack :^777777 150^000000
+Weight :^777777 300^000000
+Property :^009900 Wind^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 65^000000
+Applicable Job :^777777 Ninja^000000
+#
+13302#
+A heavy, giant shuriken shaped like a bladed wheel.
+^880000External Bleeding^000000 an enemy when you attack (Success Chance ?%).
+^008800Quest Ingredient for: Hira Shurikat (1)^000000
+Class :^777777 Huuma^000000
+Attack :^777777 50^000000
+Weight :^777777 250^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 42^000000
+Applicable Job :^777777 Ninja^000000
+#
+13303#
+A ^FF0000Fire^000000 Property Huuma shuriken that sparks like a firecracker when it strikes enemies.
+Add a 3% chance of auto casting ^008800Level 5 Fireball^000000 on the enemy when attacking.
+DEX - 2
+^008800Quest Ingredient for: Hira Shurikat (1)^000000
+Class :^777777 Huuma^000000
+Attack :^777777 185^000000
+Weight :^777777 150^000000
+Property :^FF0000 Fire^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 55^000000
+Applicable Job :^777777 Ninja^000000
+#
+4382#
+Maximum HP + 500
+HP Recovery + 10%
+[^000088+ Miyabi Doll & Evil Nymph & Harpy & Bloody Butterfly^000000]
+• INT + 3
+• Inflict 10% more damage with ^008800Heaven's Drive and Thunder Storm^000000.
+[^008800Sage, Professor^000000]
+• Reflect single target Magic back at the caster (Success Chance 20%).
+• Add a 1% chance of gaining 'Red Gemstone' or 'Yellow Gemstone' item each time a monster is killed.
+• Reduce Casting Time by 20%.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4390#
+ATK + 5
+Add a 5% chance of auto casting ^880000External Bleeding^000000 on the enemy when attacking.
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+7561#
+A heart that's frozen over. It's really cold, so be careful and don't hold it with bare hands.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (690)^000000
+Weight :^777777 1^000000
+#
+7563#
+It has a red color, similar to blood. Rune letters are written inside.
+^ffffff_^000000
+^008800Quest Ingredient for: Lord Kaho's Horn (30)^000000
+Weight :^777777 1^000000
+#
+7564#
+A meat that has rotten after lying around too long. You'll certainly have a stomach ache if you eat it.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Twin Fang (600)^000000
+Weight :^777777 1^000000
+#
+7565#
+A sticky poison that you can get from plants. It's pretty strong and used in various places.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Djinn (680)^000000
+Weight :^777777 1^000000
+#
+7566#
+A dark oval stone with seven red eyes that's believed to act as a sort of nucleus for some monsters.
+^ffffff_^000000
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Weight :^777777 1^000000
+#
+7567#
+A hat that covers the entire face, but it has two holes that you can see through.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (500), Belmont Whip (500), Blade of Angels (500), Evangelist (480), Eversong Greaves (480), Nibelungen (500)^000000
+Weight :^777777 1^000000
+#
+1370#
+A gigantic and ridiculously heavy axe that requires great strength to use it properly.
+Decrease Attack Speed by 40%.
+SP cost of All Skills is doubled.
+[^008800Base Strength >= 95^000000]
+ATK + 340
+Causes ^880000Stun^000000 effect to enemies by 30% chance when receiving damage.
+Add a 5% chance of breaking the enemy's armor when attacking.
+^008800Quest Ingredient for: Djinn (1)^000000
+Class :^777777 Axe^000000
+Attack :^777777 10^000000
+Weight :^777777 600^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 80^000000
+Applicable Job :^777777 Swordman Class, Merchant Class^000000
+#
+7752#
+A clattering skull that occasionally breaks out in song that can be sold to Merchant NPCs.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Evangelist (790)^000000
+Weight :^777777 1^000000
+#
+7753#
+A seemingly useless farming tool that can be sold to Merchant NPCs.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Sherwood Bow (790)^000000
+Weight :^777777 1^000000
+#
+2530#
+A symbol known to be used by the people who loved to run. Just wearing it arouses a desire to run.
+AGI + 2
+[^000088+ Black Leather Boots^000000]
+Increases Flee Rate + 10.
+^008800Quest Ingredient for: Eversong Greaves (1)^000000
+Class :^777777 Garment^000000
+Defense :^777777 4^000000
+Weight :^777777 50^000000
+Required Level :^777777 55^000000
+Applicable Job :^777777 Every Rebirth Job except High Novice^000000
+#
+1270#
+Katar with a rotating drill instead of blade. It seems as it would break any armor in its way.
+Small chance to force de-equip everything the target has.
+HIT + 30
+^008800Quest Ingredient for: Twin Fang (1)^000000
+Class :^777777 Katar^000000
+Attack :^777777 110^000000
+Weight :^777777 140^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 55^000000
+Applicable Job :^777777 Assassin Cross^000000
+#
+1376#
+This special two hand axe was crafted by a great blacksmith and it seems to be capable of destroying any type of armor.
+Critical Rate + 20, Attack Speed + 5%
+Critical Rate increases depending on the weapon's refinement rate.
+[^008800Whitesmith, Creator^000000]
+Add a chance of auto casting ^008800Level 3 Hammerfall^000000 on the enemy when attacking.
+^008800Quest Ingredient for: Mjolnir (1)^000000
+Class :^777777 Axe^000000
+Attack :^777777 175^000000
+Weight :^777777 200^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 70^000000
+Applicable Job :^777777 Trans Swordman Class, Merchant Class^000000
+#
+1732#
+A bow that looks like it is made in a natural way, making it look like it looks quite natural.
+Small chance to ^880000Stone Curse^000000 the target.
+If equipped together with Stone Arrow, increases damage by 25%.
+^008800Quest Ingredient for: Sherwood Bow (1)^000000
+Class :^777777 Bow^000000
+Attack :^777777 105^000000
+Weight :^777777 140^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 55^000000
+Applicable Job :^777777 Hunter, Rogue^000000
+#
+7799#
+A dark crystal which is hiding heavy shadows inside of it.
+You might feel strongly dangerous power from this crystal. When you close to it, you could realize something is sucking all the power from near atmosphere.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Electric Guitar (200)^000000
+Weight :^777777 1^000000
+#
+4423#
+HIT + 5, Increase damage on ^0000FFWater^000000 Property enemies by 5%.
+^008800Quest Ingredient for: Evangelist (2)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Accessory^000000
+Weight :^777777 1^000000
+#
+1629#
+A staff once used by a very gentle man somewhere a long ago.
+A very narrow sword is hidden inside the staff.
+MATK + 15%, DEX + 1
+[^000088+ Magician Hat^000000]
+DEX + 2, INT + 2, SP Recovery + 5%. Refine rate increases MATK.
+^008800Quest Ingredient for: Ghostdancer Staff (1)^000000
+Class :^777777 Rod^000000
+Attack :^777777 40^000000
+Weight :^777777 50^000000
+Property :^777777 Neutral^000000
+Weapon Level :^777777 4^000000
+Required Level :^777777 50^000000
+Applicable Job :^777777 Mage, Acolyte, Soul Linker Class^000000
+#
+7762#
+The aged lady, Yaga always carries this. It has the marks of being rubbed off.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (780), Mjolnir (780)^000000
+Weight :^777777 1^000000
+#
+6021#
+Small, red colored Peaked Hat that can be sold to merchant NPC at a high price.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Belmont Whip (340), Tome of Ymir (350)^000000
+Weight :^777777 1^000000
+#
+6023#
+Beautiful long, white colored horn with the very strong magical power.
+It can be sold to merchant NPC at a high price.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (380)^000000
+Weight :^777777 1^000000
+#
+1483#
+A Spear created from the Mammonths Fang. It's very hard hence hard to use but, since the end of the spear isn't sharp, its better to just pierce people with it then cut with it.
+AGI + 2, ASPD + 3%
+Causes ^880000Bleeding^000000 effect to enemies or ^008800Level 1 Joint Beat^000000 on enemy when attacking.
+Enables use of ^008800Level 5 Spear Stab^000000.
+^008800Quest Ingredient for: Nibelungen (1)^000000
+Class :^777777 Spear^000000
+Attack :^777777 160^000000
+Weight :^777777 100^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 50^000000
+Applicable Job :^777777 Trans Swordman Class^000000
+#
+1980#
+At the end of the rope is a power that enables enemies to back off.
+The users hit by this rope have nothing they can do but back off by its powers.
+AGI + 2, DEX + 3
+The ^008800Throw Arrow^000000 skill shoves the enemy 2 cells back.
+The ^008800Arrow Vulcan^000000 skill shoves the enemy 3 cells back.
+^008800Quest Ingredient for: Belmont Whip (1)^000000
+Class :^777777 Whip^000000
+Attack :^777777 110^000000
+Weight :^777777 70^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 70^000000
+Applicable Job :^777777 Gypsy^000000
+#
+6032#
+A hard horn grows on Hilsrion's head.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Aegis Shield (400)^000000
+Weight :^777777 1^000000
+#
+6041#
+Strong looking vine. Looks useful for various use.
+^ffffff_^000000
+^880088Upgrade Ingredient for: Twin Fang (430)^000000
+Weight :^777777 5^000000
+#
+6089#
+A bead keeping dusky darness inside. It feels like you could look beyond the universe through it if you look close.
+^ffffff_^000000
+^008800Quest Ingredient for: Twin Fang (25)^000000
+Weight :^777777 1^000000
+#
+6090#
+Purified Bradium which is the Ore of the other world. It looks like an Ice, but it's warm.
+^ffffff_^000000
+^008800Quest Ingredient for: Mjolnir (100)^000000
+Weight :^777777 5^000000
+#
+4443#
+Decreases damage from ^0000FFWater^000000 Property by 20%.
+Increases damage dealing to ^0000FFWater^000000 Property by 5%.
+^008800Quest Ingredient for: Evangelist (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4450#
+INT + 1, MATK + 10.
+^008800Quest Ingredient for: Sherwood Bow (1)^000000
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+8008#
+A headgear which is made after white beautiful angel wings.
+STR + 1
+^008800Quest Ingredient for: Valkyrie Helm (1)^000000
+Class : ^777777Headgear^000000
+Defense : ^7777771^000000
+Location : ^777777Mid^000000
+Weight : ^77777710^000000
+Required lvl : ^77777770^000000
+Available Job : ^777777Every Job^000000
+#
+2410#
+Named after Odin's trusty warhorse, these shoes also mimic Sleipnir's powers.
+MHP/MSP + 20%, SP Recovery + 15%, MDEF + 10, Fast-move all the time
+^008800Quest Ingredient for: Sleipnir[1] (1)^000000
+Item Class : ^777777Shoes^000000
+Defence : ^7777775^000000
+Weight : ^777777150^000000
+Required lvl : ^77777780^000000
+Available Job : ^777777Every Job^000000
+#
+8061#
+Exclusive invisible eye wear
+^008800Quest Ingredient for: Scouter (1)^000000
+Item Class : ^777777Head Gear^000000
+Defence Rate : ^7777771^000000
+Equipped On : ^777777Mid^000000
+Weight : ^77777710^000000
+Applicable Job : ^777777Every Job^000000
+#
+8925#
+Fragment emitting some sort of strange power.
+^008800Quest Ingredient for: Lord Kaho's Horn (750)^000000
+Weight : ^7777771^000000
+#
+20200#
+An essence containing the power of the Knight.
+^008800Quest Ingredient for: Nibelungen (1)^000000
+Weight : ^7777770^000000
+#
+20201#
+An essence containing the power of the Priest.
+^008800Quest Ingredient for: Evangelist (1)^000000
+Weight : ^7777770^000000
+#
+20202#
+An essence containing the power of the Wizard.
+^008800Quest Ingredient for: Staff of Magi (1)^000000
+Weight : ^7777770^000000
+#
+20203#
+An essence containing the power of the Blacksmith.
+^008800Quest Ingredient for: Mjolnir (1)^000000
+Weight : ^7777770^000000
+#
+20204#
+An essence containing the power of the Hunter.
+^008800Quest Ingredient for: Artemis Bow (1)^000000
+Weight : ^7777770^000000
+#
+20205#
+An essence containing the power of the Crusader.
+^008800Quest Ingredient for: Aegis Shield (1)^000000
+Weight : ^7777770^000000
+#
+20206#
+An essence containing the power of the Monk.
+^008800Quest Ingredient for: Suiken (1)^000000
+Weight : ^7777770^000000
+#
+20207#
+An essence containing the power of the Sage.
+^008800Quest Ingredient for: Tome of Ymir (1)^000000
+Weight : ^7777770^000000
+#
+20208#
+An essence containing the power of the Rogue.
+^008800Quest Ingredient for: Sherwood Bow (1)^000000
+Weight : ^7777770^000000
+#
+20209#
+An essence containing the power of the Alchemist.
+^008800Quest Ingredient for: Djinn (1)^000000
+Weight : ^7777770^000000
+#
+20210#
+An essence containing the power of the Bard.
+^008800Quest Ingredient for: Electric Guitar (1)^000000
+Weight : ^7777770^000000
+#
+20211#
+An essence containing the power of the Dancer.
+^008800Quest Ingredient for: Belmont Whip (1)^000000
+Weight : ^7777770^000000
+#
+20212#
+An essence containing the power of the Super Novice.
+^008800Quest Ingredient for: Blade of Angels (1)^000000
+Weight : ^7777770^000000
+#
+20213#
+An essence containing the power of the Gunslinger.
+^008800Quest Ingredient for: Scouter (1)^000000
+Weight : ^7777770^000000
+#
+20214#
+An essence containing the power of the Ninja.
+^008800Quest Ingredient for: Hira Shurikat (1)^000000
+Weight : ^7777770^000000
+#
+20215#
+An essence containing the power of the Taekwon.
+^008800Quest Ingredient for: Eversong Greaves (1)^000000
+Weight : ^7777770^000000
+#
+20216#
+An essence containing the power of the Soul Linker.
+^008800Quest Ingredient for: Ghostdancer Staff (1)^000000
+Weight : ^7777770^000000
+#
+20217#
+An essence containing the power of the Assassin.
+^008800Quest Ingredient for: Twin Fang (1)^000000
+Weight : ^7777770^000000
+#
